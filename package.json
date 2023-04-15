@@ -1,0 +1,13 @@
+{
+    "name": "rari-fuse-102-bad-debt",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "dotenv": "^16.0.3",
+        "web3": "^1.6.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
